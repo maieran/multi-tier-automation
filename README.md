@@ -1,3 +1,6 @@
+Check how to deploy the multi-tier to avoid memory problems.
+This is especially important for automatic deployment and later for AWS.
+
 # Prerequisites
 #
 - JDK 1.8 or later
