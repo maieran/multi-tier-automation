@@ -1,5 +1,4 @@
-Check how to deploy the multi-tier to avoid memory problems.
-This is especially important for automatic deployment and later for AWS.
+For education purposes only.
 
 # Prerequisites
 #
